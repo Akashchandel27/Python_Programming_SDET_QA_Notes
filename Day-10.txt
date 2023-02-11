@@ -1,12 +1,4 @@
-Day-10 Python programming file add here
-
-New file added for day-10
-done 
-done done
-done with mobile
-
 ----------------------------
-----------------------
 
 Exception Handling
 
@@ -15,4 +7,15 @@ Exception is an event, which will cause program termination
 ----
 ----
 ----
------
+----
+
+try, expect else
+
+Expect--> executes only when expections occured
+else---> executes only expection not occured
+finally--> Always executes
+
+
+File Handling/ working with the text
+---------------------------------------
+
