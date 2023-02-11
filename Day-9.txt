@@ -1,0 +1,49 @@
+Day-9
+----------------
+Py.files to consider
+------------------------------------------
+Calculator
+operations
+animal
+birds
+animalandbird
+a
+b
+ab
+-> create python directory with the name pack1
+-> create module1
+-> create module2
+
+then create Day-9 in the client file and call it
+
+--------------------------------------
+Modules & Packages
+---------------------
+
+Module -----------> Collection of functions, classes(variable + methods)
+
+Ex-1)
+
+1) How to create a module
+2) How to call the functions from one module to anthor module..
+3) Same functions in 2 modules
+
+Approach1: import moduleName
+Approach2: from modulename import function.classes
+
+
+Packages
+-------------------------
+
+Collection of modules
+
+Package -----> modules----> functions & classes
+
+#pack1===> module 1 ===> display()
+	===> module 2 ===> show()
+
+
+
+
+
+

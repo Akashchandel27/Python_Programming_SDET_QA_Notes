@@ -1,0 +1,49 @@
+
+Day4- Python Programming
+------------------------------
+Collections
+------------------------------
+a=10
+s="welcome"
+d=10.5
+
+List
+Tuple
+Set
+Dictionary
+
+List
+------------------------------
+A list is a collection which is ordered and changeable.
+In Python lists are written with square brackets [ ].
+List is mutable.
+
+to add in the list something--
+
+mylist = ["apple","banana","cherry"]
+mylist.append("orange")        # adding new items at the end of the list
+print(mylist)                  # ['apple', 'banana', 'cherry', 'orange']
+
+mylist.insert(1,"orange")  # adding where ever you want to add in the list
+print(mylist)              # ['apple', 'orange', 'banana', 'cherry']
+pop() to 
+
+Tuple
+------------------------------
+A list is a collection which is ordered and unchangeable.
+In Python lists are written with round brackets ().
+List is Immutable.
+
+if is it immuatable below things are not possiable...
+
+1) We cannot modify existing value.
+2) We cannot append new value.
+3) We cannot insert a new value.
+4) We cannot remove any value
+
+
+we can change the value but for that we need to change the
+
+-> list in tuple
+-> Then, change tuple into list.
+

@@ -1,0 +1,63 @@
+Day-8 Python Programming
+------------------------------------
+
+Class
+Object
+Method
+Constuctor
+
+
+Inheritance
+----------------------------
+Aquiring all the attributes(variables) & behavior(methods) from one class to anthor class is called as inheritance.
+
+Class A------->  a,b,c,  m1(),m2() ----------> A is parent of B class------ (Base class/super class)
+
+Class B(A)------->  x,y,z   m3()----------------> B is child of A class------(Sub class/ Derived class)
+
+Objective of Inheritance
+------------------------------
+1) Code- reuseablity
+2) Avoid duplicatons
+
+Types of Inheritance
+------------------------
+1) Single
+2) Multi-level
+3) Heirarchy
+4) Multiple
+
+1) Single----One parent ---------One child
+2) Multi-level----One parent-------one parent -------- one parent---- one child
+3) one parent---- two child
+4) two parent---- one child
+
+Polymorphism
+shape-- circle, rectangle, sqaure.....
+
+Polymorphism we can implement using overloading concept.....
+
+user.....
+add()
+add(10,20)
+add(10,20,30)
+
+-----------------------
+
+overloading---------------->
+
+class
+object  --------------> methods, static methods, constructors
+inheritance-----------> types, overriding, super()
+polymorphism----------> o
+
+
+
+
+
+
+
+
+
+
+

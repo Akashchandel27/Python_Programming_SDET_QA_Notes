@@ -1,0 +1,71 @@
+Day-7
+-----------------------
+
+Java
+Python -structured + object oriented
+
+class, object
+
+OOPS ( Object orientend programming concepts)
+----------------------------------------------
+Class
+object
+inheritance
+polymorphism
+
+Class                  Object
+
+Employee-------->  John, scott, marry etc
+Animal---------> Dog,horse, elephant etc..
+
+class---> collection of variables(attributes) & methods( behavior)
+
+A class is blue print 
+logical entity
+Does not occupy space in the memory
+
+object--- > object is an instance of class
+physical entity
+occupy certain amount space in the memory
+
+For one class, we can create multiple objects.
+objects are independent...
+
+function Vs Method
+----------------------
+
+Function -- > we can create without class
+method -- > create inside the class
+
+
+2 tyes of methods we can define within the class
+
+1) Instance method ( we can call only though object name)
+2) Static method ( we can call using the class name) 
+
+
+annotation method  @static method
+
+
+Global variable
+class variable
+local variable
+
+
+Method  & Constructor
+----------------------
+
+Method : Give any name
+ 	   return the values
+	   method can take argument/parameters
+	   we have to use an object to invoke this methods
+
+Constructor name is fixed  : def inti_(self)
+constructor will not return any value
+constructor can also take arugement/ parameter
+constructor will be called at the time of object creation itself.
+
+
+
+
+

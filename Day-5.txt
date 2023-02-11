@@ -1,0 +1,43 @@
+Day5 - Python Programming
+---------------------------------------
+list  - mutable  ----- []
+tuple - immutable------()
+set   - mutable--------{}
+dictionary - mutable
+
+Set: A Set a collection which is unordered and unindexed.
+- to write set we use curly bracket {}.
+- unordered means it will not save in proper order.
+- that's why it does't have index value.
+
+dictionary : 
+---------------------------------------
+-It is a collection which is unordered, changeable(mutable) and indexed.
+-It is written with the curely brackets{}, and they have keys nad values.
+
+keys     Values
+product1: 100
+product2: 200
+product3: 500
+
+telephone no    name
+1232423          x
+2332532          y
+2343223          z
+
+keys can be unique but values can't we duplicate
+
+
+                    List      Tuple       Set       Dictionary
+Mutable/Imutable   Mutable  Immutable   Mutable     Mutable
+Ordered            Ordered   Ordered    Unordered   Unordered
+Indexed            Indexed   Indexed    Unindexed   unindexed
+
+Examples:-
+---------------------------------------
+List:-  Storing the percentage year wise in the list, here we need have indexing important.
+Tuple:- Roll number alloted by the university.
+Set:-   Adding items in the shopping website in the future.
+Dict:-  We hace set of keys and values.
+
+
