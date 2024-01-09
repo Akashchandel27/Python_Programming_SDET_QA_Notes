@@ -3,6 +3,8 @@ Day-2 Python Programming
 Delete the variables
 
 
+
+
 Operator- a symbol which will perform an operation between 2 or more variables
 
 a=100
