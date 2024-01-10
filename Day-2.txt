@@ -12,6 +12,8 @@ b=200
 
 print (a+b)
 
+
+
 1) Arithmetic
 2) Relational
 3) Logical
